@@ -1,2 +1,2 @@
 # profile_ui
-![Screenshot_20221117_225639](https://user-images.githubusercontent.com/113675481/202635895-578f54e6-ddf4-4190-b964-081492e00823.png)
+<img src ="https://user-images.githubusercontent.com/113675481/203852400-01d1ad9d-ac3f-4aae-b5ec-9bbb0a9e82b7.png" width="300" height="600" />  
